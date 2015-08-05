@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/leipert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leipert.io
+  * I am leipert (https://keybase.io/leipert) on keybase.
+  * I have a public key with fingerprint B52F 69BF F963 50FD 93E9  1B64 148B EA37 CB35 B2AC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b52f69bff96350fd93e91b64148bea37cb35b2ac",
+            "host": "keybase.io",
+            "key_id": "148bea37cb35b2ac",
+            "kid": "01019eb8f55875300f617d764db28b1c604b9cf1a51d6162194f347bfff2466770e10a",
+            "uid": "17bc9b4d34472488a18d92ac0fbc8919",
+            "username": "leipert"
+        },
+        "service": {
+            "hostname": "leipert.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438772717,
+    "expire_in": 157680000,
+    "prev": "5adf173ba36ff78928c86941cef1f72546aff5cc1bcd5bd6dffae47f5948e112",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMMvAnicbZJ7UFRVHMeXCNIlkoeiSVDeUaJmyXvu+66IQWGkTA8RcphqvY9zlhuw
+u9y9sAJiaA3yUivMBi0LM2EwaxOxcGrGJXXGdhxKKmKCjZEeLLJraQWMMnWv1h/N
+dP45c77n8/v+HvM7ExtpMkcsbJlk/fTx9yP8vqxKU6EvFKrFRKdcjVlrsVJ480KK
+ww5Vl6o4NMyKiTSBGF5EiGdIGkcyT0IeiAwFKE6EAslKIkmLhCBhFqzE6TYidBtR
+cMOHFKeu6Q+bIuvq//ClNz9wgAMeihyiaY6lSRxHDGBllqFkkeBEIDE4JfISAgIN
+ZAYwBOApRFKsXhEiKIZhWRwCXNDtKm/lYUWJFymZpCiWoDhOAJzM6/lwJEocD3gD
+dEPVIZRDnS6DiguqGlZnwXSxSpGgMQGjkf8Ct5pxqU7NKTnLdL1E01xuqxGnVbsM
+0ANF2z8WNlFxyPoQ9YgqqLoVpwOzAp2UNMXwBBTJsSzBAtaCwS0uRYU2xSBoluFw
+/Rh5YJVuSQsyAiwpCiSDEMvxBCdxDE8BCSKAWIKmGAEhWpKAKMm0KDMyQgKkWETz
+FAcBIDCjqQqHE7MyepmCXbd0K3aHoFWqEKvr9z17uynCbIqOus1YA5N5fty/y7EN
+WzCX0nqiY5P5t9Ib/XlhKTZ1qpegIvLGLrc+XhrITx+6mjbaVVsSve8e27LDd301
+E1eQcuTjoZKG6fvginDOiAufWRvo2rUsr3x/c0bscMnGjvq0Guzog0snyme3ZoZS
+vWpb5FRZzAc/jriU+kX3Bp/oK36hL9C/KWO1b0NXyJG045Wzl0fqw1RVMv7HYq6l
+qGZalq9OZDW2tngO2k1ckbN6XkNhd0xKZ/HrF5qS1rQm+j/Nml7pvePumjOPVBz/
+ISpw5Sd/G3/yYmdnppbWE165c/3ZsTWxf6q2Ys/m0432nOdTTh/5LL5nxdp47bVd
+2wIJ7fun7aacC3kB/9cP7FGbJyeLIrOL0r+LpKedvevyfxnEyBcdvdq4T6uYeDsh
+Jblu1vWR7/frsx0D2d8+9w04d+jSkHWmbHdwz7FiOrzqMdl8/s6hR9d9cbJl/mrL
+/UXK9kPvLrJfweKsn2TGB6W8pN6yRl5ZEh5+pz0teOLA7AL/xZ71NQ/H3VDa39ue
+vi/EBJNeGjlwrbl2c8LyKEtmNx+zYcer3Vz27qnRxXT+Oc/W+kTOVJO6c/BauC2j
+IXvvG8RY7t4PS2MuHVue/v3gl0uf/rlXeHnUPDc3vDE4MO5F87yr8F9dHs9AX9f4
+qesFiaOfL6wtiD+oDJ6ih4++9dSb59OTc5cc3tLU+ORfTaq3MCQ948/tiDb9DYRa
+qhc=
+=Mdo+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leipert
+
+==================================================================
