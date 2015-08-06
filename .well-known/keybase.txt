@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/leipert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://leipert.github.io
+  * I am leipert (https://keybase.io/leipert) on keybase.
+  * I have a public key with fingerprint B52F 69BF F963 50FD 93E9  1B64 148B EA37 CB35 B2AC
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b52f69bff96350fd93e91b64148bea37cb35b2ac",
+            "host": "keybase.io",
+            "key_id": "148bea37cb35b2ac",
+            "kid": "01019eb8f55875300f617d764db28b1c604b9cf1a51d6162194f347bfff2466770e10a",
+            "uid": "17bc9b4d34472488a18d92ac0fbc8919",
+            "username": "leipert"
+        },
+        "revoke": {
+            "sig_ids": [
+                "c180144a464b877ac4e20c910f959d3692ab261406d9f7799b796b95c3d0da8c0f"
+            ]
+        },
+        "service": {
+            "hostname": "leipert.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1438858141,
+    "expire_in": 157680000,
+    "prev": "1b0c78dfe7f038d09ca1c5204bcc4bb07fc84f9892de50d7f77067707d397f5f",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.34
+Comment: https://keybase.io/crypto
+
+yMN+AnicbZJ7UFRVHMcXCLM1DUE2I2LghkMwC96793kWKWMIGoaQdyQwcM997N4W
+dpd9ASJO+UhTKaYg6YHMAFaaA4NOAiINiDgDRAIBs/EQxMegGTQ2vkqZ7sX6o5nO
+P2fO73zP5/s733MurPVSqT02HLpFD5KnTnoM9jQ4VZm90XXlCLTwZYi+HDEJK5Mo
+mQ2CzWqTzA5Ej0BSJ1IAiiKgcBIVeYALAIMUgREMFFic5iBOQh3LIVrEaLErJ2QM
+ZO1ClGSRa/IiX+Ll6v/oTSsbKIZiQICMSJIMTeIoKlIYzdMUwUMdAzGOQgkIOBFj
+SYynMEqHAULECVruSNQRFEXTqIChrIxzPvGhIQcgweMEQesIhmExhgeyHypCjgEY
+UIR2wWZmiwRZXShIVsHmQCq0iE1wWUyCEoBdMsg92xF9DsJhDIoRBEtQBGRomuUI
+QYdyAENFQAIep2Qy1FEYgVI8EGkaAEgDCgKSw3mUZxnZFcmT2bKhS+JW4EpI/zWP
+MkgOoxM+yctqszgsnKVQ3jY6HFa7XmnNUWZV9CUCzP+HlA8lMy+/k3zCJdjsksWM
+6DFZyTkkBY0ROMOQDEZgWkQotUo2IV9SFCRNMag8FB/BpaQFUY5meFGgRRRneBRw
+LMaROjlyjiMgRGmRYwgRMEDHCyTK0/IdUSVymscBLZIiotyt2GyR2ZTcJ2uQmXJ8
+ZtbhtAlIxfme3KdUHmrVKm9P5aup1M/4/PsBP9H4qNpaiieCij941O6eSn99fbe7
+LUG6aej5estRb99kj6YCdbhn/n2/6YW2a0PbOKr8V3PDdceUKfO1mYX7y8+OqctK
+B7f+9m1D5OyDvbODS2+PT55NjDkW++eFroLAk5tuLFZlVS/qz91J77sF4me29bTE
+11zdF2Bs64yO+bK1a7p6odGrNuHOTIhGM/BN73sh5ev8w4Z7c+7+lb12XTWd+oa7
++9KajtGW08PzlaFjuVd2B01Up4Gs7KC+X1bXNPoXTV4331hT4/n4o/PPN5nrytxP
+H9LEHckbrQ7bkc113NwTHX97edN4ZHhiwmcjz0Vqfk555Lvqw4yd1Ju3EXGq3vhW
+bdNsVFhsru+nnRX9L5viH1/TRO8aDqp/UOlObPZyTpWMdOW+Wnx5dWbw/JUkv4GD
+/IvHhoaM4leuDaaCI8evejcf1RVuRUIe1vikttZtfGdvuCHUz8COq+PsnzNS9BLx
+cdvl94uO0/Mhtf3W6agknDrxY+VPE8Fizd0z7YsRtf7pPXW5fR3fvfRwsfHAYW3V
+Cf2Ocy9k7rlSlbbkNJxlWm0VW+IyzgwHJ492dh7YnhRQd3F318Bc3sWMw83u/REj
+v4/NpBpj62Nm+nMCvbRd678vMZduN2tDC6FjVxZ/aS6F6NZHlKQdDFx+d3JzS8Cc
+I6e3MTn8dMQXoX1/vLJzX/sPm1NOFd/b6LoH/gbm8MkV
+=f9/V
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/leipert
+
+==================================================================
+
