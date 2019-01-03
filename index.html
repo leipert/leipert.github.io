@@ -1,158 +1,76 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Lukas Eipert by leipert</title>
+  <meta charset="utf-8">
+  <title>Lukas Eipert by leipert</title>
+  <style>
 
-    <style>
+  * {
+    margin: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+  }
 
-        * {
-            margin: 0;
-            -webkit-margin-before: 0;
-            -webkit-margin-after: 0;
-        }
+  html, body {
+    height: 100vh;
+  }
 
-        html, body {
-            height: 100vh;
-        }
+  body {
+    font-size: 1.6em;
+    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #3a434c;
+  }
 
-        html {
-            font-size: 80%;
-        }
+  .wrapper {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding-top: 10rem;
+  }
 
-        body {
-            font-size: 1.6em;
-            line-height: 1.6;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-            color: #3a434c;
-        }
+  h1 {
+    font-size: 2.6rem;
+  }
 
-        .wrapper {
-            max-width: 50rem;
-            margin: 0 auto;
-            padding-top: 10rem;
-        }
+  a {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-skip: ink;
+    color: #6caecb;
+  }
 
-        img {
-            max-width: 15rem;
-        }
+  a:visited {
+    color: #3f5177;
+  }
 
-        header {
-            text-align: right;
-            display: flex;
-            justify-content: flex-end;
-            align-items: flex-end;
-        }
+  a:focus {
+    color: #9a8386
+  }
 
-        h3 {
-            font-weight: 300;
-        }
-
-        h1 {
-            font-size: 4.6rem;
-        }
-
-        h2 {
-            font-size: 2.2rem;
-        }
-
-        h3 {
-            font-size: 1.8rem;
-            font-weight: 500;
-            margin-top: 1rem;
-        }
-
-        p {
-            margin: 0.5rem 0;
-
-        }
-
-        footer {
-            text-align: center;
-            font-size: 1rem;
-            clear: both;
-        }
-
-        section {
-            margin: 3rem 0;
-        }
-
-        .title {
-            padding: 3rem;
-        }
-
-        a {
-            text-decoration-line: underline;
-            text-decoration-style: dotted;
-            text-decoration-skip: ink;
-            color: #6caecb;
-        }
-
-        a:visited {
-            color: #3f5177;
-        }
-
-        a:focus {
-            color: #9a8386
-        }
-
-        a:hover {
-            color: #b85e58
-        }
-
-        ul.two-columns {
-            columns: 2;
-            -webkit-columns: 2;
-            -moz-columns: 2;
-        }
-
-        ul.two-columns {
-            list-style: none;
-        }
-
-    </style>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  a:hover {
+    color: #b85e58
+  }
+  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 </head>
 <body>
 <div class="wrapper">
-    <header>
-        <div class="title">
-            <h1>Lukas Eipert</h1>
-            <h2>Frontend Engineer</h2>
-        </div>
-        <div>
-            <img src="./profile.jpg"/>
-        </div>
-    </header>
-    <section>
-
-        <p>Working at <a href="https://eccenca.com">eccenca GmbH</a> as an Engineer.</p>
-        <p>As the captain of a small Frontend team I navigate the rocky JavaScript cliffs &ndash; steering the ship
-            through planned and unplanned adventures &ndash; fighting alongside the crew to slay beasts and horrors
-            &ndash; current <a href="https://www.youtube.com/watch?v=wCDIYvFmgW8" target="_blank">weapons of choice</a>
-            are React, Rx, lodash, node and MDL
-        </p>
-
-        <p>Find me on:</p>
-
-        <ul class="two-columns">
-            <li><a href="https://github.com/leipert">github</a></li>
-            <li><a href="https://gitlab.com/leipert">gitlab</a></li>
-            <li><a href="https://www.xing.com/profile/Lukas_Eipert">xing</a></li>
-            <li><a href="https://www.linkedin.com/in/leipert">linked.in</a></li>
-            <li><a href="https://keybase.io/leipert">keybase</a></li>
-            <li><a href="https://twitter.com/leipert_io">twitter</a></li>
-            <li><a href="https://news.ycombinator.com/user?id=leipert">hn</a></li>
-        </ul>
-    </section>
-    <footer>
-        <p>
-            <small>
-                Hosted on Gitlab Pages &ndash; Inspired by <a href="http://milligram.io/">milligram</a>
-            </small>
-        </p>
-    </footer>
+  <h1>
+    Find me over at <a href="https://leipert.io">https://leipert.io</a>
+  </h1>
+  <noscript>
+    <p>No automatic redirect.</p>
+  </noscript>
 </div>
+<script>
+window.onload = function () {
+  const p = document.createElement('p');
+  p.appendChild(document.createTextNode('Redirecting in 3 seconds'));
+  document.querySelector('.wrapper').appendChild(p);
+  setTimeout(function () {
+    location.href = 'https://leipert.io';
+  }, 3000)
+};
+</script>
 </body>
 </html>
